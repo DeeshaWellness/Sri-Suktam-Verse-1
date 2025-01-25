@@ -1,0 +1,1946 @@
+<html>
+    <head>
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+        <style type="text/css">
+            ol.lst-kix_pbmhtzwg4pa5-3.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-3 0
+            }
+
+            ol.lst-kix_hxq8mglhzric-4.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-4 0
+            }
+
+            .lst-kix_pbmhtzwg4pa5-6>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-6
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-0.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-0 0
+            }
+
+            .lst-kix_pbmhtzwg4pa5-5>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-5
+            }
+
+            .lst-kix_6v1lgo1ykrms-0>li:before {
+                content: "\0025cf   "
+            }
+
+            ol.lst-kix_hxq8mglhzric-7.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-7 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-2.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-2 0
+            }
+
+            .lst-kix_h152djc9xgsl-5>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-5,lower-roman) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-7>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-7
+            }
+
+            .lst-kix_h152djc9xgsl-8>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-8
+            }
+
+            .lst-kix_pbmhtzwg4pa5-4>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-4
+            }
+
+            .lst-kix_h152djc9xgsl-6>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-6,decimal) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-7>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-7,lower-latin) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-8>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-8,lower-roman) ". "
+            }
+
+            ol.lst-kix_h152djc9xgsl-5.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-5 0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-6.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-6 0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-8 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_pbmhtzwg4pa5-1 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-7 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-6.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-6 0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-4 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-3 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-6 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-5 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_h152djc9xgsl-8.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-8 0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-0 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-2 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-7>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-7
+            }
+
+            ol.lst-kix_h152djc9xgsl-0 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-2.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-2 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-4 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_h152djc9xgsl-3 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_6jf5cffvy6en-3.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-3 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-2 {
+                list-style-type: none
+            }
+
+            .lst-kix_6jf5cffvy6en-2>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-2
+            }
+
+            ol.lst-kix_h152djc9xgsl-8 {
+                list-style-type: none
+            }
+
+            .lst-kix_pbmhtzwg4pa5-0>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-0,decimal) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-1>li:before {
+                content: "\0025cb   "
+            }
+
+            ol.lst-kix_h152djc9xgsl-7 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-8.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-8 0
+            }
+
+            .lst-kix_pbmhtzwg4pa5-8>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-8
+            }
+
+            ol.lst-kix_h152djc9xgsl-6 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_h152djc9xgsl-5 {
+                list-style-type: none
+            }
+
+            .lst-kix_6jf5cffvy6en-8>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-8
+            }
+
+            ol.lst-kix_hxq8mglhzric-8 {
+                list-style-type: none
+            }
+
+            .lst-kix_pbmhtzwg4pa5-4>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-4,lower-latin) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-5>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-5,lower-roman) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-2>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-2
+            }
+
+            ul.lst-kix_6jf5cffvy6en-1 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-2>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-2
+            }
+
+            .lst-kix_pbmhtzwg4pa5-2>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-2,lower-roman) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-3>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-3,decimal) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-6>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-6,decimal) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-7>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-7,lower-latin) ". "
+            }
+
+            .lst-kix_hxq8mglhzric-8>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-8
+            }
+
+            ol.lst-kix_h152djc9xgsl-7.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-7 0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-2.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-2 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-0.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-0 0
+            }
+
+            .lst-kix_h152djc9xgsl-4>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-4,lower-latin) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-3>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-3,decimal) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-5>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-5,lower-roman) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-2>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-2,lower-roman) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-3>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-3,decimal) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-2>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-2,lower-roman) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-6>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-6,decimal) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-0>li:before {
+                content: "" counter(lst-ctn-kix_h152djc9xgsl-0,decimal) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-8>li:before {
+                content: "" counter(lst-ctn-kix_pbmhtzwg4pa5-8,lower-roman) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-1>li:before {
+                content: "\0025cb   "
+            }
+
+            .lst-kix_6jf5cffvy6en-7>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-7,lower-latin) ". "
+            }
+
+            .lst-kix_h152djc9xgsl-1>li:before {
+                content: "\0025cb   "
+            }
+
+            .lst-kix_6jf5cffvy6en-0>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-0,decimal) ". "
+            }
+
+            .lst-kix_6jf5cffvy6en-8>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-8,lower-roman) ". "
+            }
+
+            ul.lst-kix_h152djc9xgsl-1 {
+                list-style-type: none
+            }
+
+            .lst-kix_h152djc9xgsl-4>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-4
+            }
+
+            .lst-kix_h152djc9xgsl-7>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-7
+            }
+
+            ol.lst-kix_hxq8mglhzric-8.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-8 0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-4.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-4 0
+            }
+
+            .lst-kix_6jf5cffvy6en-4>li:before {
+                content: "" counter(lst-ctn-kix_6jf5cffvy6en-4,lower-latin) ". "
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-7 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-4>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-4,lower-latin) ". "
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-8 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_h152djc9xgsl-6.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-6 0
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-5 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-3>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-3,decimal) ". "
+            }
+
+            .lst-kix_hxq8mglhzric-4>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-4
+            }
+
+            .lst-kix_hxq8mglhzric-5>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-5,lower-roman) ". "
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-6 {
+                list-style-type: none
+            }
+
+            .lst-kix_6jf5cffvy6en-5>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-5
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-3 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-4 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-1 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-2 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-0>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-0,decimal) ". "
+            }
+
+            .lst-kix_hxq8mglhzric-8>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-8,lower-roman) ". "
+            }
+
+            ul.lst-kix_6v1lgo1ykrms-0 {
+                list-style-type: none
+            }
+
+            .lst-kix_hxq8mglhzric-7>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-7,lower-latin) ". "
+            }
+
+            .lst-kix_pbmhtzwg4pa5-0>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-0
+            }
+
+            .lst-kix_hxq8mglhzric-6>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-6,decimal) ". "
+            }
+
+            ul.lst-kix_hxq8mglhzric-1 {
+                list-style-type: none
+            }
+
+            .lst-kix_g97ilkj8hbss-5>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_h152djc9xgsl-3>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-3
+            }
+
+            .lst-kix_g97ilkj8hbss-6>li:before {
+                content: "\0025cf   "
+            }
+
+            .lst-kix_g97ilkj8hbss-7>li:before {
+                content: "\0025cb   "
+            }
+
+            ol.lst-kix_6jf5cffvy6en-5.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-5 0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-8.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-8 0
+            }
+
+            .lst-kix_hxq8mglhzric-1>li:before {
+                content: "\0025cb   "
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-7.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-7 0
+            }
+
+            .lst-kix_g97ilkj8hbss-8>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_hxq8mglhzric-2>li:before {
+                content: "" counter(lst-ctn-kix_hxq8mglhzric-2,lower-roman) ". "
+            }
+
+            .lst-kix_hxq8mglhzric-5>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-5
+            }
+
+            .lst-kix_h152djc9xgsl-5>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-5
+            }
+
+            .lst-kix_h152djc9xgsl-2>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-2
+            }
+
+            ol.lst-kix_6jf5cffvy6en-2.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-2 0
+            }
+
+            ul.lst-kix_g97ilkj8hbss-1 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-0 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-0 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-2 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-3 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-5 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-4 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-4 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-5 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-3 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-6 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-2 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-7 {
+                list-style-type: none
+            }
+
+            ul.lst-kix_g97ilkj8hbss-8 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_hxq8mglhzric-0.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-0 0
+            }
+
+            ol.lst-kix_hxq8mglhzric-6.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-6 0
+            }
+
+            .lst-kix_6jf5cffvy6en-7>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-7
+            }
+
+            ul.lst-kix_g97ilkj8hbss-7 {
+                list-style-type: none
+            }
+
+            .lst-kix_g97ilkj8hbss-4>li:before {
+                content: "\0025cb   "
+            }
+
+            ul.lst-kix_g97ilkj8hbss-6 {
+                list-style-type: none
+            }
+
+            .lst-kix_g97ilkj8hbss-3>li:before {
+                content: "\0025cf   "
+            }
+
+            .lst-kix_g97ilkj8hbss-0>li:before {
+                content: "\0025cf   "
+            }
+
+            .lst-kix_g97ilkj8hbss-2>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_6jf5cffvy6en-4>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-4
+            }
+
+            .lst-kix_g97ilkj8hbss-1>li:before {
+                content: "\0025cb   "
+            }
+
+            ol.lst-kix_hxq8mglhzric-3.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-3 0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-5.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-5 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-4.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-4 0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-0 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-2 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-3 {
+                list-style-type: none
+            }
+
+            .lst-kix_pbmhtzwg4pa5-3>li {
+                counter-increment: lst-ctn-kix_pbmhtzwg4pa5-3
+            }
+
+            .lst-kix_h152djc9xgsl-0>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-4 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-5 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-6 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-7 {
+                list-style-type: none
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-8 {
+                list-style-type: none
+            }
+
+            .lst-kix_h152djc9xgsl-6>li {
+                counter-increment: lst-ctn-kix_h152djc9xgsl-6
+            }
+
+            ol.lst-kix_6jf5cffvy6en-0.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-0 0
+            }
+
+            .lst-kix_6v1lgo1ykrms-3>li:before {
+                content: "\0025cf   "
+            }
+
+            .lst-kix_6v1lgo1ykrms-5>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_6v1lgo1ykrms-4>li:before {
+                content: "\0025cb   "
+            }
+
+            .lst-kix_6v1lgo1ykrms-8>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_6jf5cffvy6en-6>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-6
+            }
+
+            .lst-kix_6v1lgo1ykrms-1>li:before {
+                content: "\0025cb   "
+            }
+
+            .lst-kix_hxq8mglhzric-6>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-6
+            }
+
+            .lst-kix_6jf5cffvy6en-3>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-3
+            }
+
+            ol.lst-kix_hxq8mglhzric-5.start {
+                counter-reset: lst-ctn-kix_hxq8mglhzric-5 0
+            }
+
+            ol.lst-kix_pbmhtzwg4pa5-4.start {
+                counter-reset: lst-ctn-kix_pbmhtzwg4pa5-4 0
+            }
+
+            li.li-bullet-0:before {
+                margin-left: -18pt;
+                white-space: nowrap;
+                display: inline-block;
+                min-width: 18pt
+            }
+
+            .lst-kix_6v1lgo1ykrms-2>li:before {
+                content: "\0025a0   "
+            }
+
+            .lst-kix_6jf5cffvy6en-0>li {
+                counter-increment: lst-ctn-kix_6jf5cffvy6en-0
+            }
+
+            ol.lst-kix_6jf5cffvy6en-7.start {
+                counter-reset: lst-ctn-kix_6jf5cffvy6en-7 0
+            }
+
+            ol.lst-kix_h152djc9xgsl-3.start {
+                counter-reset: lst-ctn-kix_h152djc9xgsl-3 0
+            }
+
+            .lst-kix_hxq8mglhzric-3>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-3
+            }
+
+            .lst-kix_6v1lgo1ykrms-7>li:before {
+                content: "\0025cb   "
+            }
+
+            .lst-kix_hxq8mglhzric-0>li {
+                counter-increment: lst-ctn-kix_hxq8mglhzric-0
+            }
+
+            .lst-kix_6v1lgo1ykrms-6>li:before {
+                content: "\0025cf   "
+            }
+
+            ol {
+                margin: 0;
+                padding: 0
+            }
+
+            table td,table th {
+                padding: 0
+            }
+
+            .c13 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 70.5pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c18 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 63pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c10 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 77.2pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c15 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 80.2pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c11 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 87.8pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c2 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 51.8pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c17 {
+                border-right-style: solid;
+                padding: 5pt 5pt 5pt 5pt;
+                border-bottom-color: #000000;
+                border-top-width: 1pt;
+                border-right-width: 1pt;
+                border-left-color: #000000;
+                vertical-align: top;
+                border-right-color: #000000;
+                border-left-width: 1pt;
+                border-top-style: solid;
+                border-left-style: solid;
+                border-bottom-width: 1pt;
+                width: 73.5pt;
+                border-top-color: #000000;
+                border-bottom-style: solid
+            }
+
+            .c12 {
+                margin-left: 36pt;
+                padding-top: 14pt;
+                text-indent: -18pt;
+                padding-bottom: 4pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c8 {
+                margin-left: 36pt;
+                padding-top: 12pt;
+                padding-left: 0pt;
+                padding-bottom: 12pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c6 {
+                margin-left: 36pt;
+                padding-top: 12pt;
+                padding-bottom: 12pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left;
+                height: 11pt
+            }
+
+            .c14 {
+                margin-left: 72pt;
+                padding-top: 12pt;
+                padding-left: 0pt;
+                padding-bottom: 12pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c9 {
+                padding-top: 14pt;
+                padding-bottom: 4pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left;
+                height: 14pt
+            }
+
+            .c31 {
+                color: #434343;
+                font-weight: 400;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 14pt;
+                font-family: "Arial";
+                font-style: normal
+            }
+
+            .c3 {
+                color: #000000;
+                font-weight: 400;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 11pt;
+                font-family: "Arial";
+                font-style: normal
+            }
+
+            .c5 {
+                color: #000000;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 13pt;
+                font-family: "Arial";
+                font-style: normal
+            }
+
+            .c0 {
+                padding-top: 0pt;
+                padding-bottom: 0pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: center
+            }
+
+            .c7 {
+                padding-top: 0pt;
+                padding-bottom: 0pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c20 {
+                padding-top: 14pt;
+                padding-bottom: 4pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c22 {
+                color: #000000;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 11pt;
+                font-family: "Arial";
+                font-style: normal
+            }
+
+            .c21 {
+                padding-top: 12pt;
+                padding-bottom: 12pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c26 {
+                border-spacing: 0;
+                border-collapse: collapse;
+                margin-right: auto
+            }
+
+            .c27 {
+                background-color: #ffffff;
+                max-width: 468pt;
+                padding: 72pt 72pt 72pt 72pt
+            }
+
+            .c4 {
+                padding: 0;
+                margin: 0
+            }
+
+            .c24 {
+                text-indent: -18pt
+            }
+
+            .c23 {
+                height: 38.5pt
+            }
+
+            .c25 {
+                height: 70.8pt
+            }
+
+            .c16 {
+                height: 52pt
+            }
+
+            .c30 {
+                height: 65.5pt
+            }
+
+            .c19 {
+                height: 11pt
+            }
+
+            .c1 {
+                font-weight: 700
+            }
+
+            .c29 {
+                height: 57.2pt
+            }
+
+            .c28 {
+                height: 86.5pt
+            }
+
+            .title {
+                padding-top: 0pt;
+                color: #000000;
+                font-size: 26pt;
+                padding-bottom: 3pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .subtitle {
+                padding-top: 0pt;
+                color: #666666;
+                font-size: 15pt;
+                padding-bottom: 16pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            li {
+                color: #000000;
+                font-size: 11pt;
+                font-family: "Arial"
+            }
+
+            p {
+                margin: 0;
+                color: #000000;
+                font-size: 11pt;
+                font-family: "Arial"
+            }
+
+            h1 {
+                padding-top: 20pt;
+                color: #000000;
+                font-size: 20pt;
+                padding-bottom: 6pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h2 {
+                padding-top: 18pt;
+                color: #000000;
+                font-size: 16pt;
+                padding-bottom: 6pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h3 {
+                padding-top: 16pt;
+                color: #434343;
+                font-size: 14pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h4 {
+                padding-top: 14pt;
+                color: #666666;
+                font-size: 12pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h5 {
+                padding-top: 12pt;
+                color: #666666;
+                font-size: 11pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h6 {
+                padding-top: 12pt;
+                color: #666666;
+                font-size: 11pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                font-style: italic;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+        </style>
+    </head>
+    <body class="c27 doc-content">
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.4pekl3uaudd1">
+            <span class="c5 c1">Verse in Sanskrit:</span>
+        </h3>
+        <p class="c21">
+            <span class="c1">
+                &#2361;&#2367;&#2352;&#2339;&#2381;&#2351;&#2357;&#2352;&#2381;&#2339;&#2366;&#2306;&#2361;&#2352;&#2367;&#2339;&#2368;&#2306;&#2360;&#2369;&#2357;&#2352;&#2381;&#2339;&#2352;&#2332;&#2340;&#2360;&#2381;&#2352;&#2332;&#2366;&#2350;&#2381;&#2404;<br>
+            </span>
+            <span>&nbsp;</span>
+            <span class="c22 c1">&#2330;&#2344;&#2381;&#2342;&#2381;&#2352;&#2366;&#2306;&#2361;&#2367;&#2352;&#2339;&#2381;&#2350;&#2351;&#2368;&#2306;&#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;&#2306;&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2379;&#2350;&#2310;&#2357;&#2361;&#2404;&#2404;</span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.mez448t04v8u">
+            <span class="c5 c1">Sandhi Breakdown:</span>
+        </h3>
+        <p class="c21">
+            <span class="c1">
+                &#2361;&#2367;&#2352;&#2339;&#2381;&#2351;&#2357;&#2352;&#2381;&#2339;&#2366;&#2350;&#2381;&#2361;&#2352;&#2367;&#2339;&#2368;&#2350;&#2381;&#2360;&#2369;&#2357;&#2352;&#2381;&#2339;&#2352;&#2332;&#2340;&#2360;&#2381;&#2352;&#2332;&#2366;&#2350;&#2381;&#2404;<br>
+            </span>
+            <span>&nbsp;</span>
+            <span class="c1 c22">&#2330;&#2344;&#2381;&#2342;&#2381;&#2352;&#2366;&#2350;&#2381;&#2361;&#2367;&#2352;&#2339;&#2381;&#2350;&#2351;&#2368;&#2350;&#2381;&#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;&#2306;&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;&#2350;&#2310;&#2357;&#2361;&#2404;&#2404;</span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.1bds57sx33bj">
+            <span class="c5 c1">Source:</span>
+        </h3>
+        <p class="c21">
+            <span class="c1">&#346;r &#299;S &#363;ktam</span>
+            <span>, Rigvedic Hymn, traditionally part of the </span>
+            <span class="c1">Khila Suktas</span>
+            <span class="c3">&nbsp;of the Rigveda.</span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.izsmtvwfrtbp">
+            <span class="c5 c1">English Translation:</span>
+        </h3>
+        <p class="c21">
+            <span class="c3">&quot;Bring to me the golden-hued one, radiant and auspicious, adorned with garlands of gold and silver; the luminous, resplendent, and benevolent Goddess Lakshmi, O J &#257;taveda (Fire God).&quot;</span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.js8mjxtjds1j">
+            <span class="c5 c1">Transliteration:</span>
+        </h3>
+        <p class="c21">
+            <span class="c1">
+                Hira &#7751;yavar &#7751;&#257;&#7745;hari &#7751;&#299;&#7745;suvar &#7751;arajatasraj &#257;m<br>
+            </span>
+            <span>&nbsp;</span>
+            <span class="c22 c1">Candr &#257;&#7745;hira &#7751;may &#299;&#7745;lak &#7779;m &#299;&#7745;j &#257;tavedo ma &#257;vaha.</span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c9" id="h.36rrm6vdmt9h">
+            <span class="c31"></span>
+        </h3>
+        <h3 class="c9" id="h.4nfm7gs5qgh6">
+            <span class="c5 c1"></span>
+        </h3>
+        <h3 class="c9" id="h.i7wfjevsw7rg">
+            <span class="c5 c1"></span>
+        </h3>
+        <h3 class="c9" id="h.p5zsb5j4ubxm">
+            <span class="c5 c1"></span>
+        </h3>
+        <h3 class="c20" id="h.vdlploog0jrw">
+            <span class="c5 c1">Word-by-Word Breakdown:</span>
+        </h3>
+        <table class="c26">
+            <tr class="c23">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Sanskrit Word</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Transliteration</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Basic Meaning</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Gender</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Compound Analysis</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Grammatical Analysis</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c0">
+                        <span class="c1">Root Word/Verb</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c29">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2367;&#2352;&#2339;&#2381;&#2351;&#2357;&#2352;&#2381;&#2339;&#2366;&#2350;&#2381;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Hira &#7751;yavar &#7751;&#257;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Golden-hued</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2367;&#2352;&#2339;&#2381;&#2351;(gold) + &#2357;&#2352;&#2381;&#2339;(hue)</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (Feminine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2357;&#2352;&#2381;&#2339;(Var &#7751;a)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2352;&#2367;&#2339;&#2368;&#2350;&#2381;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Hari &#7751;&#299;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Radiant, auspicious</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7 c19">
+                        <span class="c3"></span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (Feminine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2352;&#2367;(Hari)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c28">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2360;&#2369;&#2357;&#2352;&#2381;&#2339;&#2352;&#2332;&#2340;&#2360;&#2381;&#2352;&#2332;&#2366;&#2350;&#2381;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Suvar &#7751;arajatasraj &#257;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Of golden and silver garlands</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2360;&#2369;&#2357;&#2352;&#2381;&#2339;(gold) + &#2352;&#2332;&#2340;(silver) + &#2360;&#2381;&#2352;&#2332;(garland)</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Genitive Plural</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2360;&#2381;&#2352;&#2332;(Sraj)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2330;&#2344;&#2381;&#2342;&#2381;&#2352;&#2366;&#2350;&#2381;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Candr &#257;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Luminous</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7 c19">
+                        <span class="c3"></span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (Feminine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2330;&#2344;&#2381;&#2342;&#2381;&#2352;(Candra)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c25">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2367;&#2352;&#2339;&#2381;&#2350;&#2351;&#2368;&#2350;&#2381;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Hira &#7751;may &#299;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Resplendent, golden</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2367;&#2352;&#2339;&#2381;&#2351;(gold) + &#2350;&#2351;&#2368;(filled with)</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (Feminine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2361;&#2367;&#2352;&#2339;&#2381;&#2351;(Hira &#7751;ya)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;&#2306;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Lak &#7779;m &#299;m</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Goddess Lakshmi</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Feminine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7 c19">
+                        <span class="c3"></span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (Feminine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;(Lak &#7779;m &#299;)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c29">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">J &#257;taveda &#7717;</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Knower of beings (Fire God)</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Masculine</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2332;&#2366;&#2340;(born) + &#2357;&#2375;&#2342;(knower)</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Vocative Singular (Masculine)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2357;&#2375;&#2342;(Veda)</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c16">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2350;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Ma</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&nbsp;To Me</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Pronoun</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7 c19">
+                        <span class="c3"></span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Accusative Singular (First Person)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">-</span>
+                    </p>
+                </td>
+            </tr>
+            <tr class="c30">
+                <td class="c15" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2310;&#2357;&#2361;</span>
+                    </p>
+                </td>
+                <td class="c11" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#256;vaha</span>
+                    </p>
+                </td>
+                <td class="c10" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Bring, carry</span>
+                    </p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Verb</span>
+                    </p>
+                </td>
+                <td class="c2" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2310;(prefix) + &#2357;&#2361;(to carry)</span>
+                    </p>
+                </td>
+                <td class="c13" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">Imperative Singular (2nd person, Active)</span>
+                    </p>
+                </td>
+                <td class="c17" colspan="1" rowspan="1">
+                    <p class="c7">
+                        <span class="c3">&#2357;&#2361;(Vaha)</span>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <p class="c21 c19">
+            <span class="c22 c1"></span>
+        </p>
+        <h3 class="c20" id="h.9vncz5elzq97">
+            <span class="c1 c5">Detailed Grammatical Analysis:</span>
+        </h3>
+        <ol class="c4 lst-kix_pbmhtzwg4pa5-0 start" start="1">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Case Analysis</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_pbmhtzwg4pa5-1 start">
+            <li class="c14 li-bullet-0">
+                <span>Many words are in the </span>
+                <span class="c1">accusative case</span>
+                <span>, indicating they are the objects of the verb </span>
+                <span class="c1">&#2310;&#2357;&#2361;(&#257;vaha)</span>
+                <span class="c3">&nbsp;(bring forth). Examples: &#2361;&#2367;&#2352;&#2339;&#2381;&#2351;&#2357;&#2352;&#2381;&#2339;&#2366;&#2350;&#2381;, &#2361;&#2352;&#2367;&#2339;&#2368;&#2350;&#2381;, &#2354;&#2325;&#2381;&#2359;&#2381;&#2350;&#2368;&#2350;&#2381;.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;</span>
+                <span>&nbsp;is in the </span>
+                <span class="c1">vocative case</span>
+                <span class="c3">, as the speaker addresses the Fire God directly.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2350;(ma)</span>
+                <span>&nbsp;is in the </span>
+                <span class="c1">accusative case</span>
+                <span class="c3">, as the request is &quot;to me.&quot;</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_pbmhtzwg4pa5-0" start="2">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Verb Analysis</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_pbmhtzwg4pa5-1 start">
+            <li class="c14 li-bullet-0">
+                <span>The verb </span>
+                <span class="c1">&#2310;&#2357;&#2361;(&#257;vaha)</span>
+                <span>&nbsp;is in the </span>
+                <span class="c1">imperative mood</span>
+                <span class="c3">, second person singular, expressing a command or request.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_pbmhtzwg4pa5-0" start="3">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Compound Analysis</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_pbmhtzwg4pa5-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2361;&#2367;&#2352;&#2339;&#2381;&#2351;&#2357;&#2352;&#2381;&#2339;&#2366;&#2350;&#2381;</span>
+                <span>: </span>
+                <span class="c1">Karmadh &#257;raya</span>
+                <span class="c3">&nbsp;compound meaning &quot;golden-hued.&quot;</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2360;&#2369;&#2357;&#2352;&#2381;&#2339;&#2352;&#2332;&#2340;&#2360;&#2381;&#2352;&#2332;&#2366;&#2350;&#2381;</span>
+                <span>: </span>
+                <span class="c1">Bahuvr &#299;hi</span>
+                <span class="c3">&nbsp;compound describing &quot;one whose garlands are of gold and silver.&quot;</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;</span>
+                <span>: </span>
+                <span class="c1">Tatpuru &#7779;a</span>
+                <span class="c3">&nbsp;compound meaning &quot;knower of all beings.&quot;</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_pbmhtzwg4pa5-0" start="4">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Sandhi Observations</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_pbmhtzwg4pa5-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;&#2350;&rarr;&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2379;&#2350;</span>
+                <span>: The visarga </span>
+                <span class="c1">&#2307;</span>
+                <span>&nbsp;changes to </span>
+                <span class="c1">&#2323;</span>
+                <span>&nbsp;before </span>
+                <span class="c1">&#2350;</span>
+                <span class="c3">, following sandhi rules for smoother recitation.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_pbmhtzwg4pa5-0" start="5">
+            <li class="c8 li-bullet-0">
+                <span class="c1">
+                    Vedic vs. Classical Sanskrit Usage of &quot;&#2350;(Ma)&quot;:<br>
+                    <br>
+                </span>
+                <span class="c3">
+                    &nbsp;The word &#2350;(ma) in the phrase &#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2379;&#2350;&#2310;&#2357;&#2361;is consistent with Vedic Sanskrit and is not exclusive to Classical Sanskrit.<br>
+                    <br>
+                    In Vedic Sanskrit, &#2350;(ma) is frequently used as the accusative form of the pronoun &#2309;&#2361;&#2350;&#2381;(aham), meaning &quot;me &quot;or &quot;to me.&quot;<br>
+                    <br>The Vedic hymns often address deities with &#2350;(ma) to express personal devotion or to seek blessings, making its use in this verse entirely appropriate and not derived from Classical Sanskrit.
+                </span>
+            </li>
+        </ol>
+        <h3 class="c12" id="h.h6fdlth5m40t">
+            <span class="c5 c1">Why No Sandhi Here?</span>
+        </h3>
+        <ol class="c4 lst-kix_hxq8mglhzric-0 start" start="1">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Phonetic Clarity in Vedic Sanskrit</span>
+                <span class="c3">:</span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_hxq8mglhzric-1 start">
+            <li class="c14 li-bullet-0">
+                <span>In </span>
+                <span class="c1">Vedic Sanskrit</span>
+                <span>, the phrase </span>
+                <span class="c1">&#2350;&#2310;&#2357;&#2361;</span>
+                <span>&nbsp;is intentionally left disjointed. The separation emphasizes the meaning of </span>
+                <span class="c1">&#2350;(me)</span>
+                <span>&nbsp;as distinct from </span>
+                <span class="c1">&#2310;&#2357;&#2361;(bring forth)</span>
+                <span class="c3">.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span>Combining it into </span>
+                <span class="c1">&#2350;&#2366;&#2310;&#2357;&#2361;</span>
+                <span>&nbsp;could potentially lead to confusion with </span>
+                <span class="c1">&#2350;&#2366;&#2365;&#2357;&#2361;</span>
+                <span>, where </span>
+                <span class="c1">&#2350;&#2366;</span>
+                <span class="c3">&nbsp;(with a long vowel) functions as a prohibitive particle, meaning &quot;do not.&quot;</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_hxq8mglhzric-0" start="2">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Vedic Chanting Rules</span>
+                <span class="c3">:</span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_hxq8mglhzric-1 start">
+            <li class="c14 li-bullet-0">
+                <span>In Vedic recitations, preserving clarity is paramount, especially in requests to the divine. Here, separating </span>
+                <span class="c1">&#2350;</span>
+                <span>&nbsp;from </span>
+                <span class="c1">&#2310;&#2357;&#2361;</span>
+                <span>&nbsp;ensures the listener (human or divine) unmistakably understands the phrase as </span>
+                <span class="c1">&quot;Bring to me &quot;</span>
+                <span>, rather than </span>
+                <span class="c22 c1">&quot;Do not bring.&quot;</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_hxq8mglhzric-0" start="3">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Intended Grammatical Role</span>
+                <span class="c3">:</span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_hxq8mglhzric-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c1">&#2350;(ma)</span>
+                <span>&nbsp;is in the </span>
+                <span class="c1">accusative case</span>
+                <span>&nbsp;(direct object), while </span>
+                <span class="c1">&#2310;&#2357;&#2361;</span>
+                <span class="c3">&nbsp;is the imperative verb. The separation ensures the grammatical relationship remains unambiguous.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_hxq8mglhzric-0" start="4">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Comparison to Classical Sanskrit</span>
+                <span class="c3">:</span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_hxq8mglhzric-1 start">
+            <li class="c14 li-bullet-0">
+                <span>In </span>
+                <span class="c1">Classical Sanskrit</span>
+                <span>, more extensive sandhi rules might allow phrases like </span>
+                <span class="c1">&#2350;&#2310;&#2357;&#2361;</span>
+                <span class="c3">&nbsp;to merge if context permits. However, in Vedic Sanskrit, functional clarity often takes precedence over phonetic elision.</span>
+            </li>
+        </ul>
+        <hr>
+        <p class="c6 c24">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c12" id="h.7gp5pku8rc8y">
+            <span class="c5 c1">Cultural and Philosophical Importance of Separation:</span>
+        </h3>
+        <ul class="c4 lst-kix_6v1lgo1ykrms-0 start">
+            <li class="c8 li-bullet-0">
+                <span>The clear articulation of </span>
+                <span class="c1">&#2350;&#2310;&#2357;&#2361;</span>
+                <span>&nbsp;reflects the </span>
+                <span class="c1">humility and precision</span>
+                <span class="c3">&nbsp;of Vedic prayers, where every syllable is carefully pronounced to convey the devotee &#39;s request accurately.</span>
+            </li>
+        </ul>
+        <p class="c6">
+            <span class="c3">
+                <br>
+            </span>
+        </p>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.nl0ua32fmuj6">
+            <span class="c5 c1">Phonetic Features:</span>
+        </h3>
+        <ul class="c4 lst-kix_g97ilkj8hbss-0 start">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Vowel Lengths</span>
+                <span>: Long vowels like </span>
+                <span class="c1">&#2310;&#2306;</span>
+                <span class="c3">&nbsp;add a sense of auspiciousness and rhythm.</span>
+            </li>
+            <li class="c8 li-bullet-0">
+                <span class="c1">Sandhi Transitions</span>
+                <span>: Smooth connections between words like </span>
+                <span class="c1">&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2307;&#2350;&rarr;&#2332;&#2366;&#2340;&#2357;&#2375;&#2342;&#2379;&#2350;</span>
+                <span class="c3">&nbsp;ensure melodic chanting.</span>
+            </li>
+        </ul>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.z9ahyqxfb0mv">
+            <span class="c5 c1">Cultural Significance:</span>
+        </h3>
+        <ol class="c4 lst-kix_h152djc9xgsl-0 start" start="1">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Lakshmi &#39;s Symbolism</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_h152djc9xgsl-1 start">
+            <li class="c14 li-bullet-0">
+                <span>Goddess Lakshmi represents </span>
+                <span class="c1">wealth, prosperity, and auspiciousness</span>
+                <span class="c3">.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c3">Her golden hue and radiant garlands symbolize abundance and divine beauty.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_h152djc9xgsl-0" start="2">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Invocation of Agni (Fire God)</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_h152djc9xgsl-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c3">Agni (J &#257;taveda) is invoked as the intermediary who carries offerings to the deities, bridging the human and divine realms.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c3">This reflects Vedic rituals where fire is central to yaj &ntilde;as (sacrificial offerings).</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_h152djc9xgsl-0" start="3">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Garlands of Gold and Silver</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_h152djc9xgsl-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c3">The gold and silver garlands symbolize material and spiritual wealth, showing the dual nature of prosperity in the material and divine realms.</span>
+            </li>
+        </ul>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <h3 class="c20" id="h.dns2tain0lfx">
+            <span class="c5 c1">Philosophical Significance:</span>
+        </h3>
+        <ol class="c4 lst-kix_6jf5cffvy6en-0 start" start="1">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Connection of Divine and Devotee</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_6jf5cffvy6en-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c3">The verse emphasizes humility, as the devotee requests the divine through J &#257;taveda &#39;s assistance.</span>
+            </li>
+            <li class="c14 li-bullet-0">
+                <span class="c1">&quot;Bring to me &quot;</span>
+                <span class="c3">&nbsp;reflects a longing for inner abundance, not just material wealth.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_6jf5cffvy6en-0" start="2">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Wealth as a Tool for Dharma</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_6jf5cffvy6en-1 start">
+            <li class="c14 li-bullet-0">
+                <span>Lakshmi &rsquo;s blessings are sought not for greed but for fulfilling </span>
+                <span class="c1">dharma</span>
+                <span class="c3">&nbsp;(righteous duties), showing the spiritual perspective on material prosperity.</span>
+            </li>
+        </ul>
+        <ol class="c4 lst-kix_6jf5cffvy6en-0" start="3">
+            <li class="c8 li-bullet-0">
+                <span class="c1">Unity of Material and Spiritual</span>
+                <span class="c3">
+                    :<br>
+                </span>
+            </li>
+        </ol>
+        <ul class="c4 lst-kix_6jf5cffvy6en-1 start">
+            <li class="c14 li-bullet-0">
+                <span class="c3">The description of Lakshmi blends material beauty (gold, silver) with spiritual radiance (resplendent and luminous), symbolizing that true wealth is holistic.</span>
+            </li>
+        </ul>
+        <hr>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+        <p class="c7">
+            <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 689.50px; height: 293.00px;">
+                <img alt="" src="images/image1.png" style="width: 689.50px; height: 293.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
+            </span>
+        </p>
+        <p class="c7 c19">
+            <span class="c3"></span>
+        </p>
+    </body>
+</html>
